@@ -8,4 +8,4 @@
 
 # Feedback form
 
-(hjælp os og giv del din feedback)[https://forms.gle/siF7rQofVCgGHi7SA]
+[hjælp os og del din feedback](https://forms.gle/siF7rQofVCgGHi7SA)
